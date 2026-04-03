@@ -137,7 +137,7 @@
       <div class="course-icon"><i class="fas fa-cloud"></i></div>
       <div class="course-title">DevOps with AWS</div>
       <div class="course-desc">
-        Get hands-on with Docker, Kubernetes, Jenkins, Terraform & AWS Cloud to launch your DevOps career.
+        Get hands-on with Git,Docker, Kubernetes, Jenkins, Terraform & AWS Cloud to launch your DevOps career.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
