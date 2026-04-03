@@ -34,7 +34,7 @@
     }
 
     .container {
-      max-width: 1100px;
+      max-width: 1200px;
       margin: 50px auto;
       padding: 0 20px;
       display: grid;
