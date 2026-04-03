@@ -93,7 +93,7 @@
       background: linear-gradient(135deg, #004aad, #0073e6);
       color: white;
       padding: 10px 22px;
-      border-radius: 30px;
+      border-radius: 40px;
       font-size: 0.95rem;
       transition: 0.3s;
       font-weight: 500;
